@@ -22,8 +22,8 @@ class MainActivity : AppCompatActivity() {
     private lateinit var webView: WebView
     private lateinit var showButton: Button
     private var webViewURL: String? = null
-    private val projectTitle = "project_title" //Get from https://portal.avataryug.com
-    private val apiKey = "api_primary_key" //Get from https://portal.avataryug.com
+    private val projectTitle = "y2eew"//"project_title" //Get from https://portal.avataryug.com
+    private val apiKey = "23d0cbf8817e4a3794e99e8853fbd4d9"//"api_primary_key" //Get from https://portal.avataryug.com
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
